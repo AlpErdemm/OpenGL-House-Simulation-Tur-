@@ -1,3 +1,4 @@
+![GitHub Logo](/1.png)
 Projeyi çalıştırmak için OpenGL ve Glut gerekmektedir.
 
 Visual Studio nuGET Package Manager üzerinden "Install-Package nupengl.core" komutu ile edinilebilir.
