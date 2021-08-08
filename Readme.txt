@@ -1,4 +1,5 @@
-![GitHub Logo](1.png)
+
+![GitHub Logo](/1.png)
 
 Projeyi çalıştırmak için OpenGL ve Glut gerekmektedir.
 
