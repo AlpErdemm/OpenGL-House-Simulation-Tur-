@@ -1,5 +1,3 @@
-![GitHub Logo](/1.png)
-
 This a simple project to experiment with OpenGl.
 
 OpenGL and Glut required to run.
@@ -17,4 +15,5 @@ E - Turn right.
 Z - Zoom in.
 X - Zoom out.
 
+![GitHub Logo](/1.png)
 ![GitHub Logo](/3.png)
