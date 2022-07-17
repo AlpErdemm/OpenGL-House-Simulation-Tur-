@@ -1,20 +1,20 @@
 ![GitHub Logo](/1.png)
 
-Projeyi çalıştırmak için OpenGL ve Glut gerekmektedir.
+This a simple project to experiment with OpenGl.
 
-Visual Studio nuGET Package Manager üzerinden "Install-Package nupengl.core" komutu ile edinilebilir.
+OpenGL and Glut required to run.
 
-Proje çalıştırıldığında bir ev görüntüsü olmalıdır, bu görüntü dökümanda verilmiştir.
+Visual Studio nuGET can be installed through Package Manager with the command "Install-Package nupengl.core".
 
-Klavye Komutları: 
+Keyboard Commands: 
 
-W - Yukarı hareket ettir. 
-A - Sola hareket ettir. 
-S - Aşağı hareket ettir. 
-D - Sağa hareket ettir. 
-Q - Sola döndür. 
-E - Sağa döndür.
-Z - Büyüt.
-X - Küçült.
+W - Move up. 
+A - Move left.
+S - Move down.
+D - Move right.
+Q - Turn left. 
+E - Turn right.
+Z - Zoom in.
+X - Zoom out.
 
 ![GitHub Logo](/3.png)
